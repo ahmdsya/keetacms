@@ -1,0 +1,25 @@
+{
+    "name": "syarifahmad/backend",
+    "description": "",
+    "authors": [
+        {
+            "name": "Ahmad Syarif",
+            "email": "syarifahmad@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Backend\\Providers\\BackendServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Backend\\": ""
+        }
+    }
+}
