@@ -13,7 +13,7 @@
         "bitfumes/laravel-multiauth": "^2.1",
         "fideloper/proxy": "^4.0",
         "imliam/laravel-env-set-command": "1.0.0",
-        "laravel/framework": "5.8.*",
+        "laravel/framework": "6.18.*",
         "laravel/tinker": "^1.0",
         "nwidart/laravel-modules": "5.0.*",
         "shipu/themevel": "^1.6",
